@@ -7,4 +7,4 @@ Taylor Powers
 ## Objectives & Content
 * Leadership
 * Creative inspiration
-* 
+* Photography Stories
