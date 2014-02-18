@@ -1,4 +1,10 @@
-tapo1201.github.io
-==================
+# Student Web Site
 
-My very own site!
+##Authorship
+
+Taylor Powers
+
+## Objectives & Content
+* Leadership
+* Creative inspiration
+* 
